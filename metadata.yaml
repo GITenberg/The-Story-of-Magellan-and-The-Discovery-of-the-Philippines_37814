@@ -1,0 +1,41 @@
+_repo: The-Story-of-Magellan-and-The-Discovery-of-the-Philippines_37814
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, Frank Thayer
+    - Merrill, F. T.
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butterworth, Hezekiah
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '5730'
+    url: http://www.gutenberg.org/2009/agents/5730
+    wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcsh 'Sailors -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Magalhães, Fernão de, -1521 -- Juvenile literature'
+- !lcsh 'Philippines -- Discovery and exploration -- Juvenile literature'
+- !lcsh 'Explorers -- Juvenile literature'
+title: The Story of Magellan and The Discovery of the Philippines
+url: http://www.gutenberg.org/ebooks/37814
