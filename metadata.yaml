@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5730
     wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37814#The-Story-of-Magellan-and-The-Discovery-of-the-Philippines
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-10-21'
 gutenberg_type: Text
